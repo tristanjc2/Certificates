@@ -81,8 +81,14 @@ ________________________________________________________________________________
 ![Unity_Getting_Started](https://github.com/tristanjc2/Certificates/assets/129785106/d283e46e-0a04-45d0-a419-2b0e67e43573)
 ![Unity_Learn](https://github.com/tristanjc2/Certificates/assets/129785106/5a865e18-27c8-42b7-a6c4-6d5272a3e392)
 _____________________________________________________________________________________________________________________
-
-
+![Coursera_UCDAVIS_JS_1](https://github.com/tristanjc2/Certificates/assets/129785106/cdf01bb0-00d8-4cd2-8eb9-4d2206eb65c2)
+_____________________________________________________________________________________________________________________
+![OSHA_30](https://github.com/tristanjc2/Certificates/assets/129785106/68b59f0f-045d-41a0-83d4-d76416a54b79)
+![OSHA_10](https://github.com/tristanjc2/Certificates/assets/129785106/aa9eeee7-0a91-4a3b-a9af-e1dd35031b07)
+_____________________________________________________________________________________________________________________
+# Incomplete: 
+![Coursera_IT_Auto_1](https://github.com/tristanjc2/Certificates/assets/129785106/597cacf9-1087-4621-b1b0-e8397bc6729d)
+_____________________________________________________________________________________________________________________
 
 
 
